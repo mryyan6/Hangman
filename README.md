@@ -1,8 +1,6 @@
 # Hangman
 A Javascript-based Hangman game created for a class project (EECS 368 - Programming Languages and Paradigms)
 
-[Click here to see the page!](http://people.eecs.ku.edu/~sazhar/eecs368/hangman/)
-
 ### The Team
 * Sharynne Azhar - responsible for the visual styling and graphics
 * Levi Clark - responsible for the word bank and a "Create Your Own Word Bank" feature
